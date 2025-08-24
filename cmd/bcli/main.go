@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	tui "github.com/itslucassouza/vex/internal/tui"
+	tui "github.com/itslucassouza/vex-cli/internal/tui"
 )
 
 func main() {
