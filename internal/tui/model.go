@@ -10,7 +10,7 @@ import (
 	bubbletea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
 
-	"github.com/seunome/bcli/internal/tasks"
+	"github.com/itslucassouza/vex-cli/internal/tasks"
 )
 
 type model struct {
