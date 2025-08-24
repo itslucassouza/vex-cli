@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	tui "github.com/seunome/bcli/internal/tui"
+	tui "github.com/itslucassouza/vex/internal/tui"
 )
 
 func main() {
